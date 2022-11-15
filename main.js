@@ -1,4 +1,4 @@
-const M = 5, N = 5; //Tamaño matriz
+const M = 3, N = 3; //Tamaño matriz
 if(M%2!=0 && N%2!=0 && M==N){
 var arr = new Array(M);           
 for (var i = 0; i < M; i++) {
