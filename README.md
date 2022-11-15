@@ -36,3 +36,4 @@ for(var k = 0,l=arr.length-1;k<arr.length;k++,l--){
     console.log("datos erroneos")
 }
 ```
+### Realizdo por Andrés Norberto Cáceres Becerra.
